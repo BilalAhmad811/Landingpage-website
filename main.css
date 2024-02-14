@@ -1,0 +1,192 @@
+.head{
+    
+    display: flex;
+    align-items: center;
+}
+.leftside {
+    display: flex; 
+    align-items: center; 
+    margin-left: 15%;
+}
+.rightside{
+    margin-left: 10%;
+    display: flex;
+    align-items: center;
+
+}
+.thanks{
+    color: rgb(34, 185, 178);
+    
+}
+a.buynow{
+    background-color: rgb(34, 185, 178);
+    
+    color: white;
+    margin-left: 1.5rem;
+    border-radius: 1rem;
+
+}
+a:hover{
+    background-color: rgb(34, 185, 178);
+   
+   color: white;
+   border-radius: 1rem;
+}
+a{
+    
+    padding: 0.5rem;
+    margin: 5px;
+    text-decoration: none;
+    color: rgb(175, 16, 238);
+}
+.name{
+    color: white;
+}
+
+.logopng{
+    width: 2rem;
+    height: 2rem;
+    margin-right: 6px;
+
+}
+.searchlogo{
+    margin-left: 2rem;
+    width: 3rem;
+    
+
+}
+.imgbtn{
+    background-color: rgb(175, 16, 238);
+color: white;
+padding: 10px;
+border-radius: 25px;
+font-size: 1rem;
+font-size: large;
+font-style: bold,italic;
+border-color:rgb(201, 116, 6);
+border-size: 30px;
+
+}
+.imgbtn2{
+    transition-duration: 0.4s;
+    padding: 10px;
+    border-radius: 25px;
+    font-size: 1rem;
+    border-size: 30px;
+    font-size: large;
+    font-style: bold,italic;
+border-color:rgb(2175, 16, 238);
+
+  }
+  
+.imgbtn2:hover {
+    
+    background-color: rgb(34, 185, 178);
+    
+    color: white;
+  }
+.logoname{
+    color: rgb(175, 16, 238);
+}
+.imgdiv{
+    background-image: url("land2.jpg");
+    background-size: cover;
+    margin: 0px;
+    padding: 20px;
+    width: 100%;
+    height: 600px;
+    
+    display: flex;
+}
+.imgdata{
+    color: white;
+    margin-top: 200px;
+    margin-left: 75px;
+}
+
+.creative{
+    font-family:  sans-serif;
+}
+.support{
+    background-color:rgb(207, 145, 231) ;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+
+    
+}
+.fa-rocket{
+    border: 2px solid white;
+    padding: 5px;
+    border-radius: 22px;
+}
+.fa-headset{
+    border: 2px solid white;
+    padding: 5px;
+    border-radius: 22px;
+}
+.fa-clock{ border: 2px solid white;
+    padding: 5px;
+    border-radius: 22px;
+
+}
+.line{
+    height: 250px;
+    width: 5px;
+    background-color: rgb(175, 16, 238);
+    margin-left: 360px;
+    margin-top: 200px;
+}
+.about{
+    display: flex;
+    justify-content: center;
+}
+.aboutdata{
+
+height: auto;
+width: 50%;
+padding-left: 80px;
+}
+.aboutimg{
+height: 100px;
+width: 650px;
+border: 4px solid rgb(175, 16, 238);
+margin-top:380px ;
+
+
+
+
+}
+.secondline{
+    height: 3px;
+    width: 70px;
+    background-color: rgb(175, 16, 238);
+    
+}
+.myimgg{
+    height: 500px;
+    width: 400px;
+    padding-left: 100px;
+    margin-top: -25rem;
+    
+}
+.services{
+   width: 100%;
+    margin-left: 10%;
+    margin-top: 100px;
+}
+.servimg{
+    height: 200px;
+    width: 250px;
+    
+}
+.user{
+   
+    color: rgb(175, 16, 238)
+}
+.imgservice{
+    display: inline-block;
+}
